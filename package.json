@@ -1,0 +1,24 @@
+{
+  "name": "ast",
+  "version": "1.0.0",
+  "description": "ast",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KringZhang/ast.git"
+  },
+  "author": "Kring",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KringZhang/ast/issues"
+  },
+  "homepage": "https://github.com/KringZhang/ast#readme",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.3"
+  }
+}
